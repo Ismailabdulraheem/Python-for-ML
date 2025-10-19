@@ -1,3 +1,4 @@
+#course file
 # see https://matplotlib.org/stable/tutorials/introductory/customizing.html
 lines.linewidth: 4
 lines.solid_capstyle: butt
